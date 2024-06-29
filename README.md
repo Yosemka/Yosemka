@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yosemka junior .net as well C/C++ developer (still unbable to choose the favourite language)
+- 👋 Hi, I’m @Yosemka .net as well C/C++ developer (still unbable to choose the favourite language)
 - 👀 I’m interested in active leisure, such as mountain hikes, rafting and horse riding.
 - 🌱 I’m currently learning .net via C#
 - 💞️ I’m looking to collaborate on ... (really can't work out)
